@@ -1,16 +1,19 @@
 ### Hi there 👋
+```
+      _            _                   __     _          _ _                            _     _ 
+  ___| |_ ___ _ __| | __ _ _ __    ____\ \   | |__   ___| | | ___   __      _____  _ __| | __| |
+ / _ \ __/ _ \ '__| |/ _` | '__|  |_____\ \  | '_ \ / _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` |
+|  __/ ||  __/ |  | | (_| | |     |_____/ /  | | | |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |
+ \___|\__\___|_|  |_|\__,_|_|          /_/   |_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_|
 
-<!--
-**Eterlar/eterlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+Want to be a fullstack engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a student.
+- 🌱 I’m currently learning Java & Golang & Vue & React
+- 💬 Ask me about anything you want.
+- 📫 How to reach me: supereterlar@gmail.com
+- ⚡ Fun fact: movie, anime, music...
+
+![Eterlar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eterlar)
